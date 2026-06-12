@@ -82,6 +82,9 @@
     <main class="container">
         <h1>Hello rj! 👋</h1>
         <p>This is my <span class="highlight">NextWork</span> web application working!</p>
+        <p>If you see this line, that means your latest changes are automatically deployed into production by
+            CodePipeline!</p>
+
         <a href="#" class="btn">Get Started</a>
     </main>
 
